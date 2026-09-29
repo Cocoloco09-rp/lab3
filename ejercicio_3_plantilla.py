@@ -8,3 +8,5 @@ match numero_dia:
 
     case _:
         print("Error: el número debe estar entre 1 y 7.")
+
+        print("")
